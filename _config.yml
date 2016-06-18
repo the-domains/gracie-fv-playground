@@ -1,0 +1,14 @@
+layout_spectrum: 0.3939353
+color:
+  saturation: 0.4730987
+  lightness: 0.1452134
+  brandStrength: 0.9352922
+  brandColors:
+    - '#3F4C83'
+    - '#C3A984'
+    - '#8D7D66'
+    - '#FFFDCA'
+    - '#FD4543'
+  rhythmicContrast: 0.07950241
+typography_spectrum: 0.3133902
+name: Gracie FV Playground
